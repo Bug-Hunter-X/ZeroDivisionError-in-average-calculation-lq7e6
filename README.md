@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a common error: division by zero when calculating the average of a list. The `bug.py` file showcases the error, while `bugSolution.py` provides a corrected version that gracefully handles empty lists.
